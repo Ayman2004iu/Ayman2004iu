@@ -19,9 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ayman2004uuuuu@gmail.com">
-    <img src="https://komarev.com/ghpvc/?username=Ayman2004iu&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ayman2004iu&style=flat&color=blue" alt="Profile views counter"/>
 </p>
 
 <p align="center">
