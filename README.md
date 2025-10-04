@@ -28,9 +28,6 @@
   <a href="https://drive.google.com/file/d/1VJ84XwU_Jd4t6gQV9VEO4eVM_Jg9YITU/view?usp=drive_link">
     <img src="https://img.shields.io/badge/My%20CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/>
   </a> &nbsp;
-  <a href="https://github.com/Ayman2004iu">
-    <img src="https://img.shields.io/badge/My%20GitHub-24292e?style=flat-square&logo=github&logoColor=white" style="height:32px; object-fit:contain;"/>
-  </a> &nbsp;
   <a href="https://www.linkedin.com/in/ayman-ibrahim-8b48aa28a/">
     <img src="https://img.shields.io/badge/My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" style="height:32px; object-fit:contain;"/>
   </a> &nbsp;
@@ -48,9 +45,6 @@
   </a> &nbsp;
   <a href="https://www.linkedin.com/in/ayman-ibrahim-8b48aa28a/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/>
-  </a> &nbsp;
-  <a href="https://github.com/Ayman2004iu">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="48"/>
   </a> &nbsp;
   <a href="https://wuzzuf.net/me/ayman-ibrahim-85cf22dad0">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Wuzzuf_logo.svg" height="48"/>
