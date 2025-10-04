@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi, I'm Ayman Ibrahim Seddik 👋</h1>
 
-<h2 align="center">Software Engineer| Java Backend Developer</h2>
+<h2 align="center">Software Engineer | Java Backend Developer</h2>
 <br>
 
 <p align="center">
