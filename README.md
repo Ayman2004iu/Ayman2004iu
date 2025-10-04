@@ -53,7 +53,7 @@
 
 #### `🛠️ Top Technical Skills`
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,springboot,mysql,restapi,springsecurity,hibernate,git,github,postman,docker,maven,gradle,html,css,javascript,bootstrap,php,python,cpp,c,laravel"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,mysql,postman,springsecurity,hibernate,git,github,postman,docker,maven,gradle,html,css,javascript,bootstrap,php,python,cpp,c,laravel"/>
 </p>
 
 ---
