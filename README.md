@@ -59,9 +59,11 @@
 ---
 
 #### `🏆 GitHub Trophies`
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayman2004iu&theme=onestar&no-bg=true&no-frame=true&row=1&column=7"/>
-</p>
+<h3 align="left">🏆 GitHub Trophies:</h3>
+  <p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+  </p>
+  <br>
 
 ---
 
