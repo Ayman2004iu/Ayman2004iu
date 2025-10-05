@@ -18,11 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayman2004iu&style=flat&color=blue" alt="Profile views counter" width="110" height="40"/>
-</p>
-
-
 ---
 
 #### `📬 Connect With Me`
