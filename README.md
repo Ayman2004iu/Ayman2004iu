@@ -14,13 +14,14 @@
 
 <p align="center">
   <a href="https://www.google.com.eg/search?q=Ayman+Ibrahim+Seddik">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20from%20Egypt;Building%20Scalable%20Spring%20Boot%20Applications;Always%20Learning%20and%20Improving&font=Bold%20Code&center=true&color=30F050&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20from%20Egypt;Building%20Scalable%20Spring%20Boot%20Applications;Always%20Learning%20and%20Improving&font=Bold%20Code&center=true&color=30F050&pause=2000&width=600">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayman2004iu&style=flat&color=blue" alt="Profile views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Ayman2004iu&style=flat&color=blue" alt="Profile views counter" width="110" height="40"/>
 </p>
+
 
 ---
 
@@ -31,10 +32,6 @@
   </a> &nbsp;
   <a href="https://www.linkedin.com/in/ayman-ibrahim-8b48aa28a/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/>
-  </a> &nbsp;
-  <a href="https://wuzzuf.net/me/ayman-ibrahim-85cf22dad0">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Wuzzuf_logo.svg" height="48"/>
-  </a>
 </p>
 
 ---
@@ -48,7 +45,7 @@
 
 #### `🏆 GitHub Trophies`
   <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayman2004iu&theme=onestar&row=1&column=7"/>
   </p>
   <br>
 
