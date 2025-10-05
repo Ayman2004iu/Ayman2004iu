@@ -38,13 +38,6 @@
 
 ---
 
-#### `🏆 GitHub Trophies`
-  <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayman2004iu&theme=onestar&row=1&column=7"/>
-  </p>
-  <br>
-
----
 
 #### `📊 GitHub Stats`
 <p align="left">
