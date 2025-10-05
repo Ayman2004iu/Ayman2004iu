@@ -22,18 +22,6 @@
   <img src="https://komarev.com/ghpvc/?username=Ayman2004iu&style=flat&color=blue" alt="Profile views counter"/>
 </p>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1VJ84XwU_Jd4t6gQV9VEO4eVM_Jg9YITU/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/My%20CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/>
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/ayman-ibrahim-8b48aa28a/">
-    <img src="https://img.shields.io/badge/My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" style="height:32px; object-fit:contain;"/>
-  </a> &nbsp;
-  <a href="https://wuzzuf.net/me/ayman-ibrahim-85cf22dad0">
-    <img src="https://img.shields.io/badge/Wuzzuf%20Profile-0056D2?style=flat-square&logo=wuzzuf&logoColor=white" style="height:32px; object-fit:contain;"/>
-  </a>
-</p>
-
 ---
 
 #### `📬 Connect With Me`
