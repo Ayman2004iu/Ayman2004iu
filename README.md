@@ -42,7 +42,6 @@
 #### `📊 GitHub Stats`
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayman2004iu&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Ayman2004iu&theme=highcontrast" height="125"/>
 </p>
 
 ---
