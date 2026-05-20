@@ -19,22 +19,24 @@
 
 ---
 
-#### `📬 Connect With Me`
-<p align="left">
+<h3 align="center">Connect With Me</h3>
+
+<p align="center">
   <a href="mailto:ayman.ibrahim.seddik@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
   </a> &nbsp;
   <a href="https://linkedin.com/in/ayman-ibrahim-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
   </a> &nbsp;
   <a href="https://ayman2004iu.github.io/My-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Global-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="38"/>
   </a>
 </p>
 
 ---
 
-#### `🛠️ Top Technical Skills`
+<h3 align="center">Top Technical Skills</h3>
+
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,mysql,springsecurity,hibernate,git,github,postman,docker,maven,gradle,html,css,javascript,bootstrap,php,python,cpp,c,laravel,nodejs,angular,mongodb,redis"/>
 </p>
