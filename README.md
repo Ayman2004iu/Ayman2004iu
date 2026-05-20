@@ -23,13 +23,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ayman-ibrahim-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&logoWidth=20" height="42"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white" height="50"/>
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:ayman.ibrahim.seddik@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white&logoWidth=20" height="42"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=mail&logoColor=white" height="50"/>
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://ayman2004iu.github.io/My-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Global-FF5722?style=plastic&logo=google-chrome&logoColor=white&logoWidth=20" height="42"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-Global-FF5722?style=for-the-badge&logo=globe&logoColor=white" height="50"/>
   </a>
 </p>
 
