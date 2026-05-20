@@ -46,13 +46,5 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayman2004iu&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ayman2004iu&layout=compact&langs_count=6&theme=tokyonight)
-
----
-
 ### 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
