@@ -22,14 +22,14 @@
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
-  <a href="mailto:ayman.ibrahim.seddik@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
-  </a> &nbsp;
   <a href="https://linkedin.com/in/ayman-ibrahim-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
-  </a> &nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&logoWidth=20" height="42"/>
+  </a> &nbsp;&nbsp;
+  <a href="mailto:ayman.ibrahim.seddik@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white&logoWidth=20" height="42"/>
+  </a> &nbsp;&nbsp;
   <a href="https://ayman2004iu.github.io/My-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="38"/>
+    <img src="https://img.shields.io/badge/Portfolio-Global-FF5722?style=plastic&logo=google-chrome&logoColor=white&logoWidth=20" height="42"/>
   </a>
 </p>
 
@@ -39,14 +39,6 @@
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,mysql,springsecurity,hibernate,git,github,postman,docker,maven,gradle,html,css,javascript,bootstrap,php,python,cpp,c,laravel,nodejs,angular,mongodb,redis"/>
-</p>
-
----
-
-#### `📊 GitHub Stats`
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayman2004iu&show_icons=true&theme=tokyonight&count_private=true" height="150"/> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayman2004iu&layout=compact&langs_count=6&theme=tokyonight" height="150"/>
 </p>
 
 ---
